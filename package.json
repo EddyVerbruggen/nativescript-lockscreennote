@@ -13,7 +13,7 @@
     }
   },
   "dependencies": {
-    "nativescript-local-notifications": "^1.1.5",
+    "nativescript-local-notifications": "^1.1.0",
     "nativescript-sqlite": "^1.1.1",
     "nativescript-telerik-analytics": "^1.0.6",
     "tns-core-modules": "^2.3.0"
