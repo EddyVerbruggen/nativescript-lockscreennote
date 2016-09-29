@@ -1,0 +1,55 @@
+{
+  "name": "nativescript-telerik-analytics",
+  "version": "1.0.6",
+  "description": "Telerik Analytics NativeScript SDK",
+  "main": "./nativescript/index.js",
+  "keywords": [
+    "analytics",
+    "telerik",
+    "nativescript",
+    "plugin",
+    "sdk"
+  ],
+  "author": {
+    "name": "Telerik"
+  },
+  "license": "See LICENSE file",
+  "nativescript": {
+    "platforms": {
+      "ios": "1.0.0",
+      "android": "1.1.0"
+    }
+  },
+  "files": [
+    "common",
+    "nativescript",
+    "platforms"
+  ],
+  "_id": "nativescript-telerik-analytics@1.0.6",
+  "scripts": {},
+  "_shasum": "bc4b5a79242fa92018390e9774fc3a5cbaba0238",
+  "_from": "nativescript-telerik-analytics@latest",
+  "_npmVersion": "2.15.5",
+  "_nodeVersion": "4.4.5",
+  "_npmUser": {
+    "name": "telerik.analytics",
+    "email": "analytics@telerik.com"
+  },
+  "dist": {
+    "shasum": "bc4b5a79242fa92018390e9774fc3a5cbaba0238",
+    "tarball": "https://registry.npmjs.org/nativescript-telerik-analytics/-/nativescript-telerik-analytics-1.0.6.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "telerik.analytics",
+      "email": "analytics@telerik.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-telerik-analytics-1.0.6.tgz_1467186381950_0.2552404722664505"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nativescript-telerik-analytics/-/nativescript-telerik-analytics-1.0.6.tgz",
+  "readme": "ERROR: No README data found!"
+}

@@ -1,0 +1,29 @@
+{
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "readme": "NativeScript Application",
+  "repository": "<fill-your-repository-here>",
+  "nativescript": {
+    "id": "com.telerik.lockscreennote",
+    "tns-android": {
+      "version": "2.3.0"
+    },
+    "tns-ios": {
+      "version": "2.3.0"
+    }
+  },
+  "dependencies": {
+    "nativescript-local-notifications": "^1.1.5",
+    "nativescript-sqlite": "^1.1.1",
+    "nativescript-telerik-analytics": "^1.0.6",
+    "tns-core-modules": "^2.3.0"
+  },
+  "devDependencies": {
+    "babel-traverse": "6.15.0",
+    "babel-types": "6.15.0",
+    "babylon": "6.9.2",
+    "lazy": "1.0.11",
+    "nativescript-dev-typescript": "^0.3.0",
+    "typescript": "^1.8.10"
+  }
+}

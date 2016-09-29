@@ -1,0 +1,61 @@
+{
+  "name": "nativescript-local-notifications",
+  "version": "1.1.5",
+  "description": "The Local Notifications plugin allows your app to show notifications when the app is not running. Just like remote push notifications, but a few orders of magnitude easier to set up.",
+  "main": "local-notifications.js",
+  "nativescript": {
+    "platforms": {
+      "android": "2.3.0",
+      "ios": "2.3.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddyverbruggen/nativescript-local-notifications.git"
+  },
+  "keywords": [
+    "NativeScript",
+    "Notification",
+    "Local Notification"
+  ],
+  "author": {
+    "name": "Telerik / Eddy Verbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/eddyverbruggen/nativescript-local-notifications/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/eddyverbruggen/nativescript-local-notifications/issues"
+  },
+  "homepage": "https://github.com/eddyverbruggen/nativescript-local-notifications",
+  "gitHead": "5eb2480b991127f2a579dc20ded60956d653d577",
+  "_id": "nativescript-local-notifications@1.1.5",
+  "scripts": {},
+  "_shasum": "dbb05ca94c3caf068eb06a8895b0fc8cac134c44",
+  "_from": "nativescript-local-notifications@latest",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.2",
+  "_npmUser": {
+    "name": "eddyverbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "dist": {
+    "shasum": "dbb05ca94c3caf068eb06a8895b0fc8cac134c44",
+    "tarball": "https://registry.npmjs.org/nativescript-local-notifications/-/nativescript-local-notifications-1.1.5.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "eddyverbruggen",
+      "email": "eddyverbruggen@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/nativescript-local-notifications-1.1.5.tgz_1474456543659_0.4595797311048955"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nativescript-local-notifications/-/nativescript-local-notifications-1.1.5.tgz",
+  "readme": "ERROR: No README data found!"
+}

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-media-compat-24.2.1_1ba4556898fbc1234ba6c7b6cd752533d5e854a1.jar" />
+    </item>
+    <item
+        jar="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-24.2.1_3ae0fc3022f691b6879a771ddd689b1271a42538.jar" />
+    </item>
+    <item
+        jar="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/pre-dexed/F0F1/debug/internal_impl-24.2.1_b136aa2a6a31f3b06eed9301bb8aa761cb8f7dbe.jar" />
+    </item>
+    <item
+        jar="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-24.2.1_063c2ebc51d09dd398b640fb8fa4a0a9eb14a0fb.jar" />
+    </item>
+    <item
+        jar="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/exploded-aar/lockscreennote/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="4290aba11bda501dbadc2dd5c4b08282c0bbfeb8">
+        <dex dex="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/pre-dexed/F0F1/debug/binding-generator_5866e53895e9d1107238cab043c1f04d886dadb1.jar" />
+    </item>
+    <item
+        jar="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/node_modules/nativescript-local-notifications/platforms/android/libs/localnotlib.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c4d132bb5ff6e3d3a4d8e708448649ff6e3e76fc">
+        <dex dex="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/pre-dexed/F0F1/debug/localnotlib_be7e0cd5ec9da5630d98ed11576882235ae67151.jar" />
+    </item>
+    <item
+        jar="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/pre-dexed/F0F1/debug/internal_impl-24.2.1_a922ae20b39a39c2149c9c832e3b54680bfdae95.jar" />
+    </item>
+    <item
+        jar="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-utils-24.2.1_57adef7e85560cf1f9b0fe0e9f35f1bacccbaabf.jar" />
+    </item>
+    <item
+        jar="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-compat-24.2.1_843b3d8c8d5079cb6bf4de1e65cdfc4dca09c5d0.jar" />
+    </item>
+    <item
+        jar="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/pre-dexed/F0F1/debug/internal_impl-24.2.1_a5710343b20f8ed5efbb5e5fafb2e2954f791ff4.jar" />
+    </item>
+    <item
+        jar="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/pre-dexed/F0F1/debug/internal_impl-24.2.1_c1ef477b2292c1196a34a1fc8d8b94cd4209c913.jar" />
+    </item>
+    <item
+        jar="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/pre-dexed/F0F1/debug/internal_impl-24.2.1_f35db49ee4614debf295d83d638fcad80c147f07.jar" />
+    </item>
+    <item
+        jar="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-ui-24.2.1_302a5585932a0e7b0706a3f06fe217a88a430f72.jar" />
+    </item>
+    <item
+        jar="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-fragment-24.2.1_f715c42569978e6ce0a423f3811bda4d2684b2c6.jar" />
+    </item>
+    <item
+        jar="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-24.2.1_0b1930cb1e29cfc195cef5e4ea62f5599a5f626f.jar" />
+    </item>
+    <item
+        jar="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/exploded-aar/lockscreennote/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9909ad5fcc13fcc60529cfa340ee7e0abc79af38">
+        <dex dex="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/pre-dexed/F0F1/debug/lockscreennote-runtime-unspecified_cee597f91641b30bc51754374ca0df50bcb53023.jar" />
+    </item>
+    <item
+        jar="/Users/rob/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-24.2.1_6aaa02d91e07fa96ef5e4fd8b315934a839bc6ab.jar" />
+    </item>
+    <item
+        jar="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3064a6bb3bf091d8ef08a38816df98e4c033ce2">
+        <dex dex="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_5d5759d42bd46e899bd06850003f33be71e9fd28.jar" />
+    </item>
+    <item
+        jar="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-24.2.1_4170d550770636b61424c92c04f765809a73d9b8.jar" />
+    </item>
+
+</items>

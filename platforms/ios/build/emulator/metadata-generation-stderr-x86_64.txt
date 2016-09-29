@@ -1,0 +1,79 @@
+clang version 3.9.0 (tags/RELEASE_390/final)
+Target: x86_64-apple-darwin15.6.0
+Thread model: posix
+InstalledDir: 
+clang Invocation:
+ "clang-tool" "-cc1" "-triple" "x86_64-apple-ios8.0.0" "-Wdeprecated-objc-isa-usage" "-Werror=deprecated-objc-isa-usage" "-Werror=implicit-function-declaration" "-fsyntax-only" "-disable-free" "-disable-llvm-verifier" "-discard-value-names" "-main-file-name" "umbrella.h" "-mrelocation-model" "pic" "-pic-level" "2" "-mthread-model" "posix" "-mdisable-fp-elim" "-masm-verbose" "-munwind-tables" "-target-cpu" "core2" "-target-linker-version" "264.3.102" "-v" "-dwarf-column-info" "-debugger-tuning=lldb" "-resource-dir" "../lib/clang/3.9.0" "-isysroot" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk" "-I" "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/build/emulator/include" "-I" "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/../../node_modules/nativescript-sqlite/platforms/ios" "-I" "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/internal" "-F/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/build/emulator" "-F/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/internal/" "-F/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/../../lib/iOS" "-F../../lib/iOS" "-D" "DEBUG=1" "-Wno-unknown-pragmas" "-Wno-ignored-attributes" "-Wno-nullability-completeness" "-Wno-expansion-to-defined" "-std=gnu99" "-fdebug-compilation-dir" "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/internal/metadata-generator/bin" "-ferror-limit" "0" "-fmessage-length" "0" "-stack-protector" "1" "-fblocks" "-fimplicit-module-maps" "-fobjc-runtime=ios-8.0.0" "-fencode-extended-block-signature" "-fobjc-exceptions" "-fexceptions" "-fmax-type-align=16" "-fdiagnostics-show-option" "-x" "objective-c" "umbrella.h"
+
+ignoring nonexistent directory "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/build/emulator/include"
+ignoring nonexistent directory "../../lib/iOS"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/local/include"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/../../node_modules/nativescript-sqlite/platforms/ios
+ /Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/internal
+ /Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/build/emulator (framework directory)
+ /Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/internal (framework directory)
+ /Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/../../lib/iOS (framework directory)
+ ../lib/clang/3.9.0/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+clang version 3.9.0 (tags/RELEASE_390/final)
+Target: x86_64-apple-darwin15.6.0
+Thread model: posix
+InstalledDir: 
+clang Invocation:
+ "objc-metadata-generator" "-cc1" "-triple" "x86_64-apple-ios8.0.0" "-Wdeprecated-objc-isa-usage" "-Werror=deprecated-objc-isa-usage" "-Werror=implicit-function-declaration" "-fsyntax-only" "-disable-free" "-disable-llvm-verifier" "-discard-value-names" "-main-file-name" "umbrella.h" "-mrelocation-model" "pic" "-pic-level" "2" "-mthread-model" "posix" "-mdisable-fp-elim" "-masm-verbose" "-munwind-tables" "-target-cpu" "core2" "-target-linker-version" "264.3.102" "-v" "-dwarf-column-info" "-debugger-tuning=lldb" "-resource-dir" "../lib/clang/3.9.0" "-isysroot" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk" "-I" "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/build/emulator/include" "-I" "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/../../node_modules/nativescript-sqlite/platforms/ios" "-I" "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/internal" "-F/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/build/emulator" "-F/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/internal/" "-F/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/../../lib/iOS" "-F../../lib/iOS" "-D" "DEBUG=1" "-Wno-unknown-pragmas" "-Wno-ignored-attributes" "-Wno-nullability-completeness" "-Wno-expansion-to-defined" "-std=gnu99" "-fdebug-compilation-dir" "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/internal/metadata-generator/bin" "-ferror-limit" "0" "-fmessage-length" "0" "-stack-protector" "1" "-fblocks" "-fimplicit-module-maps" "-fobjc-runtime=ios-8.0.0" "-fencode-extended-block-signature" "-fobjc-exceptions" "-fexceptions" "-fmax-type-align=16" "-fdiagnostics-show-option" "-x" "objective-c" "umbrella.h"
+
+clang -cc1 version 3.9.0 based upon LLVM 3.9.0 default target x86_64-apple-darwin15.6.0
+ignoring nonexistent directory "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/build/emulator/include"
+ignoring nonexistent directory "../../lib/iOS"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/local/include"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/../../node_modules/nativescript-sqlite/platforms/ios
+ /Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/internal
+ /Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/build/emulator (framework directory)
+ /Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/internal (framework directory)
+ /Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/../../lib/iOS (framework directory)
+ ../lib/clang/3.9.0/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/module.modulemap:1:8: error: redefinition of module 'Compression'
+module Compression [system] [extern_c] {
+       ^
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/module.modulemap:1:8: note: previously defined here
+module Compression [system] [extern_c] {
+       ^
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/module.modulemap:6:8: error: redefinition of module 'Darwin'
+module Darwin [system] [extern_c] {
+       ^
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/module.modulemap:6:8: note: previously defined here
+module Darwin [system] [extern_c] {
+       ^
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/module.modulemap:1478:8: error: redefinition of module 'os'
+module os [system] [extern_c] {
+       ^
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/module.modulemap:1599:8: note: previously defined here
+module os [system] [extern_c] {
+       ^
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/module.modulemap:1494:8: error: redefinition of module 'libkern'
+module libkern [system] [extern_c] {
+       ^
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/module.modulemap:1615:8: note: previously defined here
+module libkern [system] [extern_c] {
+       ^
+In file included from umbrella.h:796:
+/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/../../lib/iOS/LocalNotificationsPlugin.framework/Headers/LocalNotificationsPlugin.h:11:9: error: 'Notification.h' file not found with <angled> include; use "quotes" instead
+#import <Notification.h>
+        ^~~~~~~~~~~~~~~~
+        "Notification.h"
+/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/ios/../../lib/iOS/LocalNotificationsPlugin.framework/Headers/LocalNotificationsPlugin.h:12:9: error: 'NotificationManager.h' file not found with <angled> include; use "quotes" instead
+#import <NotificationManager.h>
+        ^~~~~~~~~~~~~~~~~~~~~~~
+        "NotificationManager.h"
+6 errors generated.

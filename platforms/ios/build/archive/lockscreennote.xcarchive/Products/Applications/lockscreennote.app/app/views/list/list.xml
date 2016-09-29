@@ -1,0 +1,26 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="page_loaded">
+    <Page.actionBar>
+        <ActionBar title="Lock Screen Notes">
+            <NavigationButton visibility="collapsed"/>
+            <ActionBar.actionItems>               
+                <ActionItem ios.position="right" tap="add_tap">
+                    <ActionItem.actionView>
+                        <StackLayout>
+                            <Label text="&#xf2c7;" class="tns-ionicon-large" />
+                        </StackLayout>
+                    </ActionItem.actionView>
+                </ActionItem>
+            </ActionBar.actionItems>            
+        </ActionBar>
+    </Page.actionBar> 
+    <GridLayout rows="auto, *" columns="2*, *">
+        <ListView items="{{ allItems }}" id="itemList" row="1" colSpan="2" class="listview">
+            <ListView.itemTemplate>
+                <GridLayout columns="*, auto" class="item">
+                    <Label text="{{ note }}" tap="note_tap" />
+                    <Image src="res://ic_menu_delete" ios:visibility="collapse" col="1" tap="item_delete" />
+                </GridLayout>
+            </ListView.itemTemplate>
+        </ListView>
+    </GridLayout>
+</Page>

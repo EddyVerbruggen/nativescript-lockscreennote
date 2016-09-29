@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-nodpi-v4/splash_screen.xml",
+        "source": "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/src/main/res/drawable-nodpi/splash_screen.xml"
+    },
+    {
+        "merged": "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-nodpi-v4/icon.png",
+        "source": "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/src/main/res/drawable-nodpi/icon.png"
+    }
+]

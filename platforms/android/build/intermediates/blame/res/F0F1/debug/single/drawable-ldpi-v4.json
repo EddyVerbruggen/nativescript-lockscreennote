@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-ldpi-v4/logo.png",
+        "source": "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-ldpi-v4/ic_menu_delete.png",
+        "source": "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/src/main/res/drawable-ldpi/ic_menu_delete.png"
+    },
+    {
+        "merged": "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-ldpi-v4/icon.png",
+        "source": "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-ldpi-v4/background.png",
+        "source": "/Users/rob/Documents/apps/tns-lockscreennote/lockscreennote/platforms/android/src/main/res/drawable-ldpi/background.png"
+    }
+]

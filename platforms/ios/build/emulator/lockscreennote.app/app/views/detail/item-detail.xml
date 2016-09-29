@@ -1,0 +1,21 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatedTo="page_navigatedto">
+    <Page.actionBar>
+        <ActionBar title="Edit Lock Screen Note">
+            <NavigationButton visibility="collapsed"/>       
+        </ActionBar>
+    </Page.actionBar> 
+    <StackLayout>
+        <TextView id="note" hint="What note would you like to add to your lock screen?" class="h4" />
+        <WrapLayout>
+            <Label text="Make note visible?" class="p" />
+            <Switch id="visible" checked="false" propertyChange="visible_change" class="switch-positive" />
+        </WrapLayout>
+        <Label id="delayLabel" text="Delay until visible:" visibility="collapse" class="p" />
+        <ListPicker id="delay" visibility="collapse" />
+        <Label id="warning" text="After saving, put device to sleep to see your note!" textWrap="true" visibility="collapse" class="p italic" />
+        <WrapLayout>
+            <Button text="Save Note" tap="save" class="button button-balanced" />
+            <Button text="Cancel" tap="cancel" class="button button-assertive" />
+        </WrapLayout>
+    </StackLayout>
+</Page>
